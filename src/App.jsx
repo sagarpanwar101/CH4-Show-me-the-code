@@ -744,7 +744,7 @@ const Title = () => {
   )
 };
 
-const NavComponent = () => {
+const NavComponent = () => { 
   return (
     <div className="nav-items">
     <ul>
